@@ -1,0 +1,21 @@
+{
+    "name": "skvoz/superclass",
+    "description": "test",
+    "type": "git",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Perevozchykov Kostiantyn",
+            "email": "skvoz.ne@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "skvoz\\vendor\\":""
+        }
+    }
+
+
+}
